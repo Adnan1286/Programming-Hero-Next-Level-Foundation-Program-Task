@@ -1,3 +1,5 @@
+# This repository contains my completed assignment files for the Foundation Program.
+
 # Foundation-Program-Assignment-1
 
 **Total: 60 marks** · Question 1–3 carry 10 marks each, Question 4–5 carry 15 marks each.
